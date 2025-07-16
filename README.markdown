@@ -50,4 +50,4 @@ Fork this repository, enhance the dashboard with additional metrics, and submit 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact 📧
-For inquiries, contact [Harddik](mailto:harddik05@gmail.com).
+For inquiries, contact [harddi05@gmail.com](mailto:harddik05@gmail.com).
