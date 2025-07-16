@@ -38,6 +38,9 @@ This repository hosts a comprehensive Tableau dashboard analyzing Flipkart's mon
 4. Publish to Tableau Public via the "Save to Tableau Public" option for broader access.
 5. Explore interactive features and customize based on stakeholder input.
 
+## Screenshots 📷
+- [Overview of the Final Sales Dashboard](Sales_Dashboard.png)
+
 ## Installation 🛠️
 - Install Tableau Desktop and configure a Snowflake connection with necessary permissions.
 - Ensure Tableau Public account is set up for publishing.
